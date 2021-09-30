@@ -1,0 +1,12 @@
+{
+  "params":
+  {
+    "head" : "Hey, there ... !",
+    "head1": "well done",
+    "head2":"Alert",
+    "head3":"Sorry...!",
+    "gmail-user": "MailID Here",
+    "gmail-password": "Password Here",
+    "upload_location": "/home/sai/E-Agro-Market/static/product_images"
+  }
+}
